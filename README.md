@@ -1,5 +1,6 @@
 # Design-Patterns
-![image](https://github.com/user-attachments/assets/49c05946-9f1f-4638-a3f0-36352e0deb26)
+![image](https://github.com/user-attachments/assets/8a432fc2-9b43-437d-875f-0eacebf11ef0)
+
 
 ![image](https://github.com/user-attachments/assets/57f63cac-e439-4c95-888b-f4b3a5c56b17)
 
